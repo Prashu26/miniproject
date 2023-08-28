@@ -1,2 +1,2 @@
 # miniproject
-The project contains landing page and login page
+The project contains landing page and login page.
